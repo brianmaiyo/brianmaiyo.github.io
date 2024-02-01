@@ -11,7 +11,7 @@ These instructions will help students to clone and host the React app on their G
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/lawrencemuema/Nebula.git
+   git clone https://github.com/brianmaiyo/Nebula.git
    cd Nebula
 
    git checkout -b gh-pages
